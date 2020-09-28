@@ -110,3 +110,42 @@ Mainly about single cell clustering
 
 - [ ] Single-cell RNA-seq clustering：datasets,models,and algorithms
 
+# Computer Vision
+
+- [ ] **[AlexNet]** ImageNet Classification with Deep Convolutional Neural Networks
+
+- [ ] **[FaceNet]** A Unified Embedding for Face Recognition and Clustering
+
+- [ ] **[GoogLeNet]** Going Deeper with Convolutions
+
+- [ ] **[LeNet]** Gradient-Based Learning Applied to Document Recognition
+
+- [ ] **[ResNet]** Deep Residual Learning for Image Recognition
+
+- [ ] **[SSD]** Single Shot MultiBox Detector
+
+- [ ] **[VGG]** Very Deep Convolutional Networks for Large-Scale Image Recognition
+
+- [ ] Leaf-based plant species recognition based on improved local binary pattern and extreme learning machine
+
+# Deep Learning and NN
+
+- [ ] A Comprehensive Survey on Graph Neural Networks
+
+- [ ] Deconvolutional Networks
+
+- [ ] Deep Clustering for UnsupervisedLearning of Visual Features
+
+- [ ] T2F-LSTM Method for Long-term Traffic
+
+# Machine Learning
+
+- [ ] **[Structural Regularized Support Vector Machine]** A Framework for Structural LargeMargin Classifier
+
+- [ ] **[v-TSVM]** Am-twin support vector machine (m-TSVM) classifier and its geometric algorithms
+
+- [ ] SimpleMKL
+
+- [ ] Structural support vector machine
+
+- [ ] Structural twin support vector machine for classification
