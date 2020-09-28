@@ -34,6 +34,22 @@ Mainly about single cell clustering
 
 - [ ] **[SIMLR]** Visualization and analysis of single-cell rna-seq data by kernel-based similarity learning
 
+- [ ] **[SINCERA]** A Pipeline for Single-Cell RNA-Seq Profiling Analysis
+
+- [ ] **[SinNLRR]** A robust subspace clustering method for cell type detection by non-negative and low-rank representation
+
+- [x] **[SNN-Cliq]** Identification of cell types from single-cell transcriptomes using a novel clustering method
+
+- [ ] **[SurvExpress]** An Online Biomarker Validation Tool andDatabase for Cancer Gene Expression Data UsingSurvival Analysis
+
+- [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
+
+- [ ] A Hybrid Clustering Algorithm for Identifying Cell
+
+- [ ] Clustering Single-cell RNA-sequencing Data based on Matching Clusters Structures
+
+- [ ] Spectral clustering based on learning similarity matrix
+
 ## Deep learning
 
 ## Dimension reduction
