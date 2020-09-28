@@ -74,6 +74,8 @@ Mainly about single cell clustering
 
 ## Others
 
+- [ ] A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation
+
 - [ ] Identifying disease genes by integrating multiple data sources
 
 - [ ] Integrating network topology, gene expression data and GO annotation information for protein complex prediction
@@ -87,4 +89,24 @@ Mainly about single cell clustering
 - [ ] The single-cell transcriptional landscape of mammalian organogenesis
 
 ## Review
+
+- [x] Challenges in unsupervised clustering of single-cell RNA-seq data
+
+- [ ] Clustering and classification methods for single-cell RNA-sequencing data
+
+- [ ] Comparing clusterings – an overview
+
+- [ ] Current best practices in single-cell RNA-seq analysis-a tutorial
+
+- [x] Eleven grand challenges in single-cell data science
+
+- [ ] Impact of similarity metrics on single-cell RNA-seq data clustering
+
+- [ ] Machine learning and statistical methods for clustering single-cell RNA-sequencing data
+
+- [ ] Normalizing single-cell rna sequencing data - challenges and opportunities
+
+- [ ] Review of Single-cell RNA-seq Data Clustering for Cell TypeIdentification and Characterization
+
+- [ ] Single-cell RNA-seq clustering：datasets,models,and algorithms
 
