@@ -50,6 +50,10 @@ Mainly about single cell clustering
 
 ## Deep learning
 
+- [ ] **[DCA]** Single-cell RNA-seq denoising using a deep count autoencoder
+
+- [ ] **[AutoImpute]** Autoencoder based imputation of single-cell RNA-seq data
+
 - [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
 
 - [ ] Clustering single-cell RNA-seq data with a model-based deep learning approach
@@ -69,6 +73,18 @@ Mainly about single cell clustering
 - [ ] **[Review]** Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis
 
 ## Others
+
+- [ ] Identifying disease genes by integrating multiple data sources
+
+- [ ] Integrating network topology, gene expression data and GO annotation information for protein complex prediction
+
+- [ ] Limma powers differential expression analyses for RNA-sequencing and microarray studies
+
+- [ ] Prediction of Human Disease-Related Gene Clusters by Clustering Analysis
+
+- [ ] The emergent landscape of the mouse gut endoderm at single-cell resolution
+
+- [ ] The single-cell transcriptional landscape of mammalian organogenesis
 
 ## Review
 
