@@ -8,7 +8,7 @@ Mainly about single cell clustering
 
 ## Bi clustering
 
-- [ ] **[HOPACH]** New algorithm for hybrid hierarchical clustering with visualization and the bootstrap
+- [x] **[HOPACH]** New algorithm for hybrid hierarchical clustering with visualization and the bootstrap
 
 ## Clustering
 
@@ -42,8 +42,6 @@ Mainly about single cell clustering
 
 - [ ] **[SurvExpress]** An Online Biomarker Validation Tool andDatabase for Cancer Gene Expression Data UsingSurvival Analysis
 
-- [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
-
 - [ ] A Hybrid Clustering Algorithm for Identifying Cell
 
 - [ ] Clustering Single-cell RNA-sequencing Data based on Matching Clusters Structures
@@ -52,7 +50,23 @@ Mainly about single cell clustering
 
 ## Deep learning
 
+- [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
+
+- [ ] Clustering single-cell RNA-seq data with a model-based deep learning approach
+
+- [ ] Enhancing the prediction of disease-gene associations with multimodal deep learning
+
+- [ ] Using neural networks for reducing the dimensions of single-cell RNA-Seq data
+
 ## Dimension reduction
+
+- [x] **[PcaReduce]** Hierarchical clustering of single cell transcriptional profiles
+
+- [ ] **[SC3]** Consensus clustering of single-cell rna-seq data
+
+- [x] **[t-SNE]** Visualizing Data using t-SNE
+
+- [ ] **[Review]** Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis
 
 ## Others
 
