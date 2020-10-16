@@ -144,6 +144,8 @@ Mainly about single cell clustering
 
 - [ ] **[v-TSVM]** Am-twin support vector machine (m-TSVM) classifier and its geometric algorithms
 
+- [x] A Tutorial on Spectral Clustering
+
 - [ ] SimpleMKL
 
 - [ ] Structural support vector machine
