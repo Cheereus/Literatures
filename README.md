@@ -44,21 +44,25 @@ Mainly about single cell clustering
 
 - [ ] A Hybrid Clustering Algorithm for Identifying Cell
 
+- [x] A kernel non-negative matrix factorization framework for single cell clustering
+
 - [ ] Clustering Single-cell RNA-sequencing Data based on Matching Clusters Structures
 
 - [ ] Spectral clustering based on learning similarity matrix
 
 ## Deep learning
 
-- [ ] **[DCA]** Single-cell RNA-seq denoising using a deep count autoencoder
-
 - [ ] **[AutoImpute]** Autoencoder based imputation of single-cell RNA-seq data
+
+- [ ] **[DCA]** Single-cell RNA-seq denoising using a deep count autoencoder
 
 - [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
 
 - [ ] Clustering single-cell RNA-seq data with a model-based deep learning approach
 
 - [ ] Enhancing the prediction of disease-gene associations with multimodal deep learning
+
+- [ ] Interpretable dimensionality reduction of single cell transcriptome data with deep generative models
 
 - [ ] Using neural networks for reducing the dimensions of single-cell RNA-Seq data
 
@@ -76,6 +80,8 @@ Mainly about single cell clustering
 
 - [ ] A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation
 
+- [x] Cell-specific network constructed by single-cell RNA sequencing data
+
 - [ ] Identifying disease genes by integrating multiple data sources
 
 - [ ] Integrating network topology, gene expression data and GO annotation information for protein complex prediction
@@ -83,6 +89,8 @@ Mainly about single cell clustering
 - [ ] Limma powers differential expression analyses for RNA-sequencing and microarray studies
 
 - [ ] Prediction of Human Disease-Related Gene Clusters by Clustering Analysis
+
+- [x] Seq-Well：portable, low-cost RNA sequencing of single cells at high throughput
 
 - [ ] The emergent landscape of the mouse gut endoderm at single-cell resolution
 
