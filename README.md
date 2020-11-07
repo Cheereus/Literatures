@@ -56,6 +56,8 @@ Mainly about single cell clustering
 
 - [ ] **[DCA]** Single-cell RNA-seq denoising using a deep count autoencoder
 
+- [ ] **[DeepImpute]** An accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data
+
 - [x] **[DESC]** Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis
 
 - [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
@@ -149,6 +151,8 @@ Mainly about single cell clustering
 - [ ] Deconvolutional Networks
 
 - [ ] Deep Clustering for UnsupervisedLearning of Visual Features
+
+- [ ] Deep Learning
 
 - [ ] T2F-LSTM Method for Long-term Traffic
 
