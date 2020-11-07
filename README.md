@@ -56,7 +56,11 @@ Mainly about single cell clustering
 
 - [ ] **[DCA]** Single-cell RNA-seq denoising using a deep count autoencoder
 
+- [x] **[DESC]** Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis
+
 - [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
+
+- [ ] Autoencoder-based cluster ensembles for single-cell RNA-seq data analysis
 
 - [ ] Clustering single-cell RNA-seq data with a model-based deep learning approach
 
@@ -95,6 +99,8 @@ Mainly about single cell clustering
 - [ ] The emergent landscape of the mouse gut endoderm at single-cell resolution
 
 - [ ] The single-cell transcriptional landscape of mammalian organogenesis
+
+- [ ] Using diversity in cluster ensembles
 
 ## Review
 
