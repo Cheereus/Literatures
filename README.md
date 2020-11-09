@@ -62,7 +62,7 @@ Mainly about single cell clustering
 
 - [ ] **[VASC]** Dimension Reduction and Visualization of Single-cell RNA-seq Data by Deep Variational Autoencoder
 
-- [ ] Autoencoder-based cluster ensembles for single-cell RNA-seq data analysis
+- [x] Autoencoder-based cluster ensembles for single-cell RNA-seq data analysis
 
 - [ ] Clustering single-cell RNA-seq data with a model-based deep learning approach
 
@@ -70,7 +70,7 @@ Mainly about single cell clustering
 
 - [ ] Interpretable dimensionality reduction of single cell transcriptome data with deep generative models
 
-- [ ] Using neural networks for reducing the dimensions of single-cell RNA-Seq data
+- [x] Using neural networks for reducing the dimensions of single-cell RNA-Seq data
 
 ## Dimension reduction
 
