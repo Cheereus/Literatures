@@ -154,6 +154,8 @@ Mainly about single cell clustering
 
 - [ ] Deep Learning
 
+- [ ] Learning a Similarity Metric Discriminatively, with Application to Face Verification
+
 - [ ] T2F-LSTM Method for Long-term Traffic
 
 # Machine Learning
