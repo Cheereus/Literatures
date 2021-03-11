@@ -46,6 +46,8 @@ Mainly about single cell clustering
 
 - [x] A kernel non-negative matrix factorization framework for single cell clustering
 
+- [x] A spectral clustering with self-weighted multiple kernel learning method for single-cell RNA-seq data
+
 - [ ] Clustering Single-cell RNA-sequencing Data based on Matching Clusters Structures
 
 - [ ] Spectral clustering based on learning similarity matrix
